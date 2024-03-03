@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "star-tracker")(type "KiCad")(uri "${KIPRJMOD}/star-tracker.pretty")(options "")(descr ""))
+)
